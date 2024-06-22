@@ -55,7 +55,7 @@ export default function Features() {
                 <div className="max-w-2xl mx-auto antialiased pt-4 relative">
                     {dummyContent.map((item, index) => (
                         <div key={`content-${index}`} className="mb-10">        
-                        <p className={twMerge("text-xl mb-4")}>
+                        <p className={twMerge("text-xl mb-4 text-purple-400")}>
                         {item.title}
                         </p>
             

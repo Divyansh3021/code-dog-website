@@ -16,7 +16,9 @@ export default function Hero(){
                 Meet Your New Best Friend in VS Code!
             </h2>
             <p className="mt-4 font-normal text-base text-neutral-300 max-w-lg text-center mx-auto">
-            Meet Code Dog, your ultimate VS Code companion. Fetch and integrate your past code effortlessly, boost productivity, and streamline your workflow. Say goodbye to redundant coding—let Code Dog lead the way! 
+            Meet 
+            Code Dog
+            , your ultimate VS Code companion. Fetch and integrate your past code effortlessly, boost productivity, and streamline your workflow. Say goodbye to redundant coding—let Code Dog lead the way! 
             </p>
 
             <div className="mt-5 flex align-middle justify-center">
