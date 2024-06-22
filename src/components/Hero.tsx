@@ -6,7 +6,7 @@ import { HoverBorderGradient } from "./ui/hover-border-gradient"
 export default function Hero(){
 
     return (
-        <div className="">
+        <div className="mt-10">
             <Spotlight
                 className="-top-40 left-0 md:left-60 md:-top-20"
                 fill="violet"
