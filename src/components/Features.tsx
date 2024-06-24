@@ -52,10 +52,10 @@ export default function Features() {
             </h2>
 
             <TracingBeam className="px-5 mt-10">
-                <div className="max-w-2xl mx-auto antialiased pt-4 relative">
+                <div className="max-w-2xl mx-auto antialiased pt-4 relative ml-4">
                     {dummyContent.map((item, index) => (
                         <div key={`content-${index}`} className="mb-10">        
-                        <p className={twMerge("text-xl mb-4 text-purple-400")}>
+                        <p className={twMerge("text-lg mb-4 text-purple-400")}>
                         {item.title}
                         </p>
             
