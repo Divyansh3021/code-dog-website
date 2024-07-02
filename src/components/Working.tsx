@@ -1,7 +1,6 @@
 import Image from "next/image";
 import { BackgroundBeams } from "./ui/background-beams";
-import update from "@/images/update.png"
-import fetch from "@/images/fetch.png"
+import image from "@/images/image.png"
 import Link from "next/link";
 import { HoverBorderGradient } from "./ui/hover-border-gradient";
 
@@ -17,8 +16,7 @@ export default function Working() {
                 </HoverBorderGradient>
             </Link>
             </div>
-            <Image src={update} alt="update" className=" w-10/12 max-w-screen max-h-3xl mt-3 mx-auto"/>
-            <Image src={fetch} alt="fetch" className=" w-10/12 max-w-screen max-h-3xl mt-3 mx-auto"/>
+            <Image src={image} alt="update" className=" w-8/12 max-w-screen max-h-3xl mt-3 mx-auto"/>
         </div>
     )
 }

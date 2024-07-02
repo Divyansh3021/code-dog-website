@@ -19,7 +19,7 @@ export default function Features() {
           description: (
             <>
               <p>
-              Tailor Code Dog to fit your unique coding style and project requirements. Adapt past solutions seamlessly to meet your current needs.
+              Tailor glyph to fit your unique coding style and project requirements. Adapt past solutions seamlessly to meet your current needs.
               </p>
             </>
           ),
@@ -29,7 +29,7 @@ export default function Features() {
           description: (
             <>
               <p>
-              Say goodbye to redundant coding and hello to a streamlined workflow. Code Dog enhances your coding speed and efficiency by reusing your best work.
+              Say goodbye to redundant coding and hello to a streamlined workflow. glyph enhances your coding speed and efficiency by reusing your best work.
               </p>
             </>
           ),
@@ -38,7 +38,7 @@ export default function Features() {
             title: "Seamless VS Code Integration",
             description:(
                 <p>
-                    Enjoy a smooth and intuitive experience with Code Dog’s seamless integration into VS Code. It works right where you do, making it an essential part of your development toolkit.
+                    Enjoy a smooth and intuitive experience with glyph’s seamless integration into VS Code. It works right where you do, making it an essential part of your development toolkit.
                 </p>
             )
         }

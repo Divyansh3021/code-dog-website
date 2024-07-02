@@ -12,13 +12,11 @@ export default function Hero(){
                 fill="violet"
             />
 
-            <h2 className="text-4xl md:text-7xl font-bold text-center bg-clip-text text-transparent bg-gradient-to-b from-neutral-50 to-neutral-400 bg-opacity-50">
-                Meet Your New Best Friend in VS Code!
+            <h2 className="text-4xl md:text-7xl font-bold text-center bg-clip-text text-transparent bg-gradient-to-b from-neutral-50 to-neutral-400 bg-opacity-50 pb-5">
+                Don't Repeat Yourself. Reimagined
             </h2>
-            <p className="mt-4 font-normal text-base text-neutral-300 max-w-lg text-center mx-auto">
-            Meet 
-            Code Dog
-            , your ultimate VS Code companion. Fetch and integrate your past code effortlessly, boost productivity, and streamline your workflow. Say goodbye to redundant coding—let Code Dog lead the way! 
+            <p className="mt-4 font-normal text-lg text-neutral-300 max-w-lg text-center mx-auto">
+            Meet Glyph, your ultimate VS Code ally. Seamlessly retrieve and integrate your past code, supercharge your productivity, and optimize your workflow. Say farewell to repetitive coding—let Glyph pave the way to smarter development!
             </p>
 
             <div className="mt-5 flex align-middle justify-center">
