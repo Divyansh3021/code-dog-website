@@ -13,7 +13,7 @@ export default function Hero(){
             />
 
             <h2 className="text-4xl md:text-7xl font-bold text-center bg-clip-text text-transparent bg-gradient-to-b from-neutral-50 to-neutral-400 bg-opacity-50 pb-5">
-                Don't Repeat Yourself. Reimagined
+                Don&apos;t Repeat Yourself. Reimagined
             </h2>
             <p className="mt-4 font-normal text-lg text-neutral-300 max-w-lg text-center mx-auto">
             Meet Glyph, your ultimate VS Code ally. Seamlessly retrieve and integrate your past code, supercharge your productivity, and optimize your workflow. Say farewell to repetitive coding—let Glyph pave the way to smarter development!
