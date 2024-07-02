@@ -1,6 +1,7 @@
 import Image from "next/image";
 import { BackgroundBeams } from "./ui/background-beams";
 import image from "@/images/image.png"
+import vscode from "@/images/vscode.png"
 import Link from "next/link";
 import { HoverBorderGradient } from "./ui/hover-border-gradient";
 
@@ -16,7 +17,8 @@ export default function Working() {
                 </HoverBorderGradient>
             </Link>
             </div>
-            <Image src={image} alt="update" className=" w-8/12 max-w-screen max-h-3xl mt-3 mx-auto"/>
+            <Image src={vscode} alt="update" className=" w-full max-w-3xl max-h-3xl mt-3 mx-auto"/>
+            <Image src={image} alt="update" className=" w-full max-w-3xl max-h-3xl mt-3 mx-auto"/>
         </div>
     )
 }
