@@ -5,8 +5,8 @@ import { Navbar } from "@/components/Navbar";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "Code Dog",
-  description: "Meet Code Dog, your ultimate VS Code companion. Fetch and integrate your past code effortlessly, boost productivity, and streamline your workflow. Say goodbye to redundant coding—let Code Dog lead the way! ",
+  title: "glpyh",
+  description: "Don't Repeat Yourself. Reimagined.",
 };
 
 export default function RootLayout({
