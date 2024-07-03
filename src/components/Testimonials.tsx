@@ -9,7 +9,7 @@ export function Testimonials() {
         <h2 className="text-lg md:text-4xl font-bold text-center bg-clip-text text-transparent bg-gradient-to-b from-neutral-50 to-neutral-400 bg-opacity-50">
             Testimonials
         </h2>
-        <div className="w-full max-w-6xl">
+        <div className="w-full">
             <InfiniteMovingCards
                 items={testimonials}
                 direction="right"
