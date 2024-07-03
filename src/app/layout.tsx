@@ -4,6 +4,7 @@ import "./globals.css";
 import { Navbar } from "@/components/Navbar";
 const inter = Inter({ subsets: ["latin"] });
 import { SpeedInsights } from "@vercel/speed-insights/next"
+import { Analytics } from "@vercel/analytics/react"
 
 export const metadata: Metadata = {
   title: "glpyh",
